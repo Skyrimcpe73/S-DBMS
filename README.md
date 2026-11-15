@@ -38,6 +38,8 @@ S-DBMS/
 │   ├── requirements.txt
 │   └── .env.example
 ├── SQL/
+│   ├── schema.sql
+│   └── test_queries.sql
 ├── sdbms.pgerd
 ├── sdbms.png
 ├── .gitignore
