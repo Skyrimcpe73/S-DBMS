@@ -41,7 +41,7 @@ S-DBMS/
 ├── sdbms.pgerd
 ├── sdbms.png
 ├── .gitignore
-├── README.md
+└── README.md
 ```
 
 ## Database Design
